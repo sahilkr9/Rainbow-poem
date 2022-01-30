@@ -1,4 +1,4 @@
-The Rainbow Poem and The Unicorn
+The Rainbow Poem and The Unicorn And the Pony 
 
 yellow
 red
@@ -7,4 +7,5 @@ green
 Indigo
 Orange
 Unicorn
-These are the colors of the rainbow and the unicorn.
+and the pony 
+These are the colors of the rainbow and the unicorn and the pony.
